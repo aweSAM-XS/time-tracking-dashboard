@@ -129,6 +129,12 @@ p span {
 
 .card-title span {
 	justify-self: end;
+	width: 20%;
+}
+
+.card-title span:hover {
+	fill: white;
+	transform: scale(1.1);
 }
 
 .time {
